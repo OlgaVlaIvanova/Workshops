@@ -1,0 +1,17 @@
+// styles to be applied to all pages go here
+
+$sans       : "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+$serif      : "Georgia", serif;
+
+// Box model fix (learn more at: http://css-tricks.com/box-sizing/)
+* {
+  -moz-box-sizing    : border-box;
+  -webkit-box-sizing : border-box;
+  box-sizing         : border-box;
+}
+
+body {
+  font-family      : $sans;
+}
+
+
