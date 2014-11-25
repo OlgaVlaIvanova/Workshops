@@ -1,0 +1,17 @@
+.full-width {
+  width: 100%;
+  min-width: 480px;
+  max-width: 960px;
+}
+.center-margin {
+  margin: 0 auto;
+}
+
+.container {
+  background: grey;
+}
+
+
+.version span{
+  font-style: italic;
+}
